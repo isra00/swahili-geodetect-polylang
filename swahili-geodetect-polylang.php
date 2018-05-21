@@ -62,8 +62,6 @@ class SwahiliGeodetect {
 		} else {
 			$ip = $_SERVER['REMOTE_ADDR'];
 		}
-		//return '89.128.196.164'; //vigo
-		return '196.44.161.193'; //tz
 		return $ip;
 	}
 }
