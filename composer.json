@@ -1,0 +1,9 @@
+{
+	"name": "Swahili geo-detect for Polylang",
+	"description": "Overrides Polylang's language detection (based on user agent's Accept-Language header) setting the language = Swahili for users geo-located in Swahili-speaking countries, since they usually have the user-agent in English. If user does not come from a Swahili-speaking country, continue with the usual Polylang language detection logic.",
+	"license": "GPL-3.0+",
+
+	"require": {
+		"geoip2/geoip2": "~2.5"
+	}
+}
