@@ -5,6 +5,7 @@ This is a Wordpress plug-in that overrides Polylang's default language detection
  1. Clone this repo into `wp-content/plugins/swahili-geodetect-polylang`.
  2. Run `composer install`.
  3. Download MaxMind's GeoLite2 Country database and name it `GeoLite2-Country.mmdb`. To download it you need a MaxMind API Key, then you can head to a link like this: `https://download.maxmind.com/app/geoip_download?edition_id=GeoLite2-Country&license_key={your_maxmind_license_key}&suffix=tar.gz`.
+ 4. Enable the plugin "Swahili Geo-detect for Polylang" in the plugins section of WP Admin panel.
 
 ## FAQ
 
