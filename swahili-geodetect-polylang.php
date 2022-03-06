@@ -5,7 +5,7 @@ Plugin Name: Swahili Geo-detect for Polylang
 Description: Overrides Polylang's language detection (based on user agent's Accept-Language header) setting the language = Swahili for users geo-located in Swahili-speaking countries, since they usually have the user-agent in English. If user does not come from a Swahili-speaking country, continue with the usual Polylang language detection logic.
 Version: 1.0
 Author: Israel Viana
-Author URI: http://srmtanzania.org
+Author URI: https://github.com/isra00
 */
 
 /**
